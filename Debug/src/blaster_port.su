@@ -1,0 +1,5 @@
+blaster_port.c:97:6:bport_init	16	static
+blaster_port.c:142:6:bport_state_set	16	static
+blaster_port.c:157:9:bport_state_get	16	static
+blaster_port.c:170:6:bport_shift_out	16	static
+blaster_port.c:187:9:bport_shift_io	24	static

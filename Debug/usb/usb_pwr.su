@@ -1,0 +1,5 @@
+usb_pwr.c:63:8:PowerOn	16	static
+usb_pwr.c:93:8:PowerOff	8	static
+usb_pwr.c:116:6:Suspend	24	static,ignoring_inline_asm
+usb_pwr.c:221:6:Resume_Init	16	static
+usb_pwr.c:257:6:Resume	24	static

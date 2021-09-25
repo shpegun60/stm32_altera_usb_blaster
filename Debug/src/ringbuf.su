@@ -1,0 +1,6 @@
+ringbuf.c:35:5:ringbuf_init	24	static
+ringbuf.c:51:5:ringbuf_use_len	16	static
+ringbuf.c:57:5:ringbuf_is_full	16	static
+ringbuf.c:63:5:ringbuf_get	32	static
+ringbuf.c:84:5:ringbuf_put	32	static
+ringbuf.c:100:5:ringbuf_putc	16	static

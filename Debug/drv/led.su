@@ -1,0 +1,5 @@
+led.c:69:13:led_gpio_config	16	static
+led.c:95:6:led_init	8	static
+led.c:105:6:led_light	16	static
+led.c:117:6:led_flash	16	static
+led.c:131:6:led_update	16	static

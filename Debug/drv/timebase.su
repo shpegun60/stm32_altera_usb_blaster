@@ -1,0 +1,9 @@
+core_cm3.h:1390:22:NVIC_SetPriority	16	static
+core_cm3.h:1517:26:SysTick_Config	16	static
+timebase.c:42:6:SysTick_Handler	4	static
+timebase.c:50:6:timebase_init	8	static
+timebase.c:65:10:ticks	4	static
+timebase.c:71:10:micros	12	static
+timebase.c:84:10:millis	4	static
+timebase.c:92:6:delay_us	24	static
+timebase.c:100:6:delay_ms	16	static

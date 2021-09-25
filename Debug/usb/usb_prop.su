@@ -1,0 +1,13 @@
+usb_prop.c:112:6:Blaster_Init	8	static
+usb_prop.c:137:6:Blaster_Reset	8	static
+usb_prop.c:192:6:Blaster_SetConfiguration	4	static
+usb_prop.c:207:6:Blaster_SetDeviceAddress	4	static
+usb_prop.c:219:6:Blaster_Status_In	4	static
+usb_prop.c:231:6:Blaster_Status_Out	4	static
+usb_prop.c:243:8:Blaster_Data_Setup	24	static
+usb_prop.c:297:8:Blaster_NoData_Setup	16	static
+usb_prop.c:327:10:Blaster_GetDeviceDescriptor	16	static
+usb_prop.c:339:10:Blaster_GetConfigDescriptor	16	static
+usb_prop.c:351:10:Blaster_GetStringDescriptor	24	static
+usb_prop.c:371:8:Blaster_Get_Interface_Setting	16	static
+usb_prop.c:389:10:Blaster_Get_VendorData	16	static

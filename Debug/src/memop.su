@@ -1,0 +1,2 @@
+memop.c:3:7:memcpy	40	static
+memop.c:16:7:memset	40	static

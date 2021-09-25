@@ -1,0 +1,10 @@
+hw_config.c:60:6:USB_HW_Config	8	static
+hw_config.c:82:6:USB_Clock_Config	8	static
+hw_config.c:98:6:Enter_LowPowerMode	4	static
+hw_config.c:111:6:Leave_LowPowerMode	16	static
+hw_config.c:133:6:USB_Interrupts_Config	16	static
+hw_config.c:161:6:USB_Cable_Ctrl	16	static
+hw_config.c:177:6:USB_GPIO_Config	16	static
+hw_config.c:198:6:USB_EXTI_Config	16	static
+hw_config.c:217:6:Get_SerialNum	24	static
+hw_config.c:240:13:IntToUnicode	32	static

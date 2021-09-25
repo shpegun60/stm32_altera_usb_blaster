@@ -1,0 +1,12 @@
+stm32f10x_bkp.c:125:6:BKP_DeInit	8	static
+stm32f10x_bkp.c:139:6:BKP_TamperPinLevelConfig	16	static
+stm32f10x_bkp.c:152:6:BKP_TamperPinCmd	16	static
+stm32f10x_bkp.c:165:6:BKP_ITConfig	16	static
+stm32f10x_bkp.c:185:6:BKP_RTCOutputConfig	24	static
+stm32f10x_bkp.c:206:6:BKP_SetRTCCalibrationValue	24	static
+stm32f10x_bkp.c:227:6:BKP_WriteBackupRegister	24	static
+stm32f10x_bkp.c:246:10:BKP_ReadBackupRegister	24	static
+stm32f10x_bkp.c:264:12:BKP_GetFlagStatus	4	static
+stm32f10x_bkp.c:274:6:BKP_ClearFlag	4	static
+stm32f10x_bkp.c:285:10:BKP_GetITStatus	4	static
+stm32f10x_bkp.c:295:6:BKP_ClearITPendingBit	4	static

@@ -1,0 +1,5 @@
+blaster.c:72:13:blaster_usbrecv	16	static
+blaster.c:99:13:blaster_usbsend	16	static
+blaster.c:140:13:blaster_ioproc	16	static
+blaster.c:176:6:blaster_init	8	static
+blaster.c:200:6:blaster_exec	8	static

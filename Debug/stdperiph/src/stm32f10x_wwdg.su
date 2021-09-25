@@ -1,0 +1,8 @@
+stm32f10x_wwdg.c:110:6:WWDG_DeInit	8	static
+stm32f10x_wwdg.c:126:6:WWDG_SetPrescaler	24	static
+stm32f10x_wwdg.c:145:6:WWDG_SetWindowValue	24	static
+stm32f10x_wwdg.c:167:6:WWDG_EnableIT	4	static
+stm32f10x_wwdg.c:178:6:WWDG_SetCounter	16	static
+stm32f10x_wwdg.c:193:6:WWDG_Enable	16	static
+stm32f10x_wwdg.c:205:12:WWDG_GetFlagStatus	4	static
+stm32f10x_wwdg.c:215:6:WWDG_ClearFlag	4	static

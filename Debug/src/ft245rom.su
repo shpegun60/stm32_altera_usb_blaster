@@ -1,0 +1,3 @@
+ft245rom.c:33:10:ft245rom_checksum	24	static
+ft245rom.c:48:5:ft245rom_init	24	static
+ft245rom.c:115:10:ft245rom_read	16	static
